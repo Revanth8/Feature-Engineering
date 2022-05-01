@@ -1,1 +1,1 @@
-# Assignment for Hashing: Querying in Face Datasets
+# Hashing: Querying in Face Datasets
